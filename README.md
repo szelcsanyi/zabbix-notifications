@@ -17,6 +17,10 @@ Notify users about errors by Zabbix via various channels.
 - Provide proper token.
 - Usage: push.py usertoken subject message
 
+### [Alerts-activity-stream](https://github.com/szelcsanyi/alerts-activity-stream)
+- Provide proper server url.
+- Usage: alert-activity-stream.py group subject message
+
 ## Contributing
 
 1. Fork it
