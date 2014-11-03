@@ -7,7 +7,7 @@ import json
 """
 Zabbix config for action (for default and recovery message):
 Subject: {TRIGGER.STATUS} {TRIGGER.NSEVERITY}
-Message: {HOST.NAME} ({HOST.IP}) {TRIGGER.NAME} ({ITEM.LASTVALUE})
+Message: {HOST.NAME} ({HOST.IP}) {TRIGGER.NAME}
 """
 
 if len(sys.argv) !=4:
