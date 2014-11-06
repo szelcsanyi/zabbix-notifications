@@ -34,3 +34,5 @@ Notify users about errors by Zabbix via various channels.
 * Freely distributable and licensed under the [MIT license](http://szelcsanyi.mit-license.org/2014/license.html).
 * Copyright (c) 2014 Gabor Szelcsanyi
 
+[![image](https://ga-beacon.appspot.com/UA-56493884-1/zabbix-notifications/README.md)](https://github.com/szelcsanyi/zabbix-notifications)
+
